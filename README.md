@@ -1,0 +1,1 @@
+dataset - https://www.kaggle.com/datasets/limjeongeun/synthetic-u-s-e-commerce-dataset-1m-orders
